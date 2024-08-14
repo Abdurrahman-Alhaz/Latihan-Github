@@ -1,2 +1,2 @@
 # Latihan-Github
-This repository created for my own practice
+This repository was created for my own practice
